@@ -1,3 +1,4 @@
 # pacman
 
-This is where I added code to course source code to make pacman reverse direction when he reached the page boundary.
+This project was completed by adding JS code to make movement to an existing PacMan program. 
+PacMan will move across the screen, turn around and go back when he reaches the page edges.
